@@ -6,7 +6,7 @@ Vagrant boxes with Docker installed and configured. **Please be patient, as thes
 
 From the command line:
 
-    vagrant init precise64-docker0.6.3 http://boxes.stackmachine.com/precise64-docker0.6.3.box
+    vagrant init precise64-docker0.6.3 https://s3.amazonaws.com/boxes.stackmachine.com/precise64-docker0.6.3.box
 
 In a Vagrantfile:
 
