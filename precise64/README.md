@@ -15,5 +15,5 @@ Wait for three minutes as the new guest additions install
 
 ```bash
 vagrant reload
-vagrant package --output precise64-docker0.6.3.box --vagrantfile ../Vagrantfile.pkg
+vagrant package --output precise64-docker0.Y.X.box --vagrantfile ../Vagrantfile
 ```
